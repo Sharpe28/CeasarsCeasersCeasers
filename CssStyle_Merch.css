@@ -1,0 +1,40 @@
+body {
+    		background-color: black;
+    		font-size: xx-large;
+}
+
+div.scrollmenu {
+    background-color: #333;
+    overflow: auto;
+    white-space: nowrap;
+}
+
+/*Navigation Bar Code*/
+div.scrollmenu a {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px;
+    text-decoration: none;
+}
+
+div.scrollmenu a:hover {
+    background-color: #777;
+}
+
+/*Code for Padding the Images*/
+.jelly_jacket001{
+	padding-left: 100px;
+}
+.Jelly_Hat001{
+	padding-right: 100px;
+}
+.Jelly_Hat002{
+	padding-left: 100px;
+}
+.Jelly_Hat003{
+	padding-right: 100px;
+}
+.Jelly_Shirt003{
+	padding-left: 100px;
+}
